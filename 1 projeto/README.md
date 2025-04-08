@@ -16,8 +16,3 @@
 4. **Legibilidade**:
    - Comentários explicam a intenção (não o óbvio).
    - Nomes de variáveis claros (ex: `descontoAplicavel` em vez de `desconto`).
-
-## Como Executar
-1. Compile o arquivo Java:
-   ```bash
-   javac GerenciadorDeVendas.java
